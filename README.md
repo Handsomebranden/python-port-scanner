@@ -18,3 +18,4 @@ Ports: 20–100
 
 ## Disclaimer
 This tool is for educational purposes only. Only scan systems you own or have permission to test.
+# python-port-scanner
