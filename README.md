@@ -10,7 +10,8 @@ A beginner-friendly TCP port scanner written in Python and designed to run on Ka
 
 ## Usage
 ```bash
-python3 port_scanner.py
+(1) cd port_scanner
+(2) python3 port_scanner.py
 
 ## Example
 Target: 127.0.0.1
@@ -20,3 +21,17 @@ Ports: 20–100
 This tool is for educational purposes only. Only scan systems you own or have permission to test.
 # python-port-scanner
 # python-port-scanner
+
+## Screenshots
+
+### Running the Port Scanner
+![Running the script](screenshots/run.png)
+
+### Entering Target and Port Range
+![User input](screenshots/input.png)
+
+### Scan Results
+![Scan results](screenshots/results.png)
+
+### Scan Results
+![Scan results](screenshots/results(2).png)
