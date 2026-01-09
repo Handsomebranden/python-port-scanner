@@ -34,4 +34,4 @@ This tool is for educational purposes only. Only scan systems you own or have pe
 ![Scan results](screenshots/results.png)
 
 ### Scan Results
-![Scan results](screenshots/results(2).png)
+![Scan results](screenshots/results2.png)
