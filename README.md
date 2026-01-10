@@ -20,3 +20,14 @@ Ports: 20–100
 ## Disclaimer
 This tool is for educational purposes only. Only scan systems you own or have permission to test.
 # python-port-scanner
+
+## Screenshots
+
+### Running the Port Scanner
+![Alt text]()
+
+### Entering Target and Port Range
+![User input](screenshots/input.png)
+
+### Scan Results
+![Scan results](screenshots/results.png)
