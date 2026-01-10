@@ -25,7 +25,7 @@ This tool is for educational purposes only. Only scan systems you own or have pe
 ## Screenshots
 
 ### Running the Port Scanner
-!
+![image alt](https://github.com/Handsomebranden/python-port-scanner/blob/ffa7f950477b2a0a7d587b2008574b5ee5b714f1/screenshots/run.png)
 
 ### Entering Target and Port Range
 ![User input](screenshots/input.png)
