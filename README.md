@@ -82,6 +82,9 @@ python3 port_scanner.py
 <h3>Scan Results</h3>
 <img src="screenshots/results.png" alt="Port scan results" width="700">
 
+<h3>Scan Results</h3>
+<img src="screenshots/results2" alt="Port scan results" width="700">
+
 <hr>
 
 <h2>📚 What I Learned</h2>
