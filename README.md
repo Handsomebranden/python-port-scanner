@@ -24,7 +24,7 @@ This tool is for educational purposes only. Only scan systems you own or have pe
 ## Screenshots
 
 ### Running the Port Scanner
-![Alt text]()
+![Alt text](Screenshot 2026-01-08 234716.png)
 
 ### Entering Target and Port Range
 ![User input](screenshots/input.png)
