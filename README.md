@@ -1,33 +1,103 @@
-# Python TCP Port Scanner
+<h1>Python TCP Port Scanner</h1>
 
-A beginner-friendly TCP port scanner written in Python and designed to run on Kali Linux.
+<p>
+A simple TCP port scanner written in Python, developed and tested on
+<strong>Kali Linux</strong>.  
+This project was created as part of my cybersecurity internship to learn
+network scanning, socket programming, and Linux terminal workflows.
+</p>
 
-## Features
-- Scans a target host for open TCP ports
-- Multi-threaded scanning for faster results
-- Beginner-friendly and well-commented code
-- Safe for learning and educational use
+<hr>
 
-## Usage
-```bash
-(1) cd port_scanner
-(2) python3 port_scanner.py
+<h2>⚠️ Ethical Disclaimer</h2>
+<p>
+This tool is intended for <strong>educational purposes only</strong>.
+Only scan systems you own or have explicit permission to test.
+Unauthorized scanning is illegal and unethical.
+</p>
 
-## Example
-Target: 127.0.0.1
-Ports: 20–100
+<hr>
 
-## Disclaimer
-This tool is for educational purposes only. Only scan systems you own or have permission to test.
-# python-port-scanner
+<h2>🛠️ Technologies Used</h2>
+<ul>
+  <li>Python 3</li>
+  <li>Kali Linux</li>
+  <li>Socket Programming</li>
+  <li>Multithreading</li>
+</ul>
 
-## Screenshots
+<hr>
 
-### Running the Port Scanner
-![Alt text](https://github.com/Handsomebranden/python-port-scanner/blob/11bd50f9c22520a94db2bff01ec897530fab659b/Screenshot%202026-01-08%20234716.png)
+<h2>📂 Project Structure</h2>
+<pre>
+python-port-scanner/
+│
+├── port_scanner.py
+├── README.md
+└── screenshots/
+    ├── run.png
+    ├── input.png
+    └── results.png
+</pre>
 
-### Entering Target and Port Range
-![User input](screenshots/input.png)
+<hr>
 
-### Scan Results
-![Scan results](screenshots/results.png)
+<h2>🚀 How to Run the Port Scanner (Kali Linux)</h2>
+
+<ol>
+  <li>Open the terminal</li>
+  <li>Navigate to the project folder</li>
+</ol>
+
+<pre>
+cd python-port-scanner
+</pre>
+
+<ol start="3">
+  <li>Make the script executable (optional)</li>
+</ol>
+
+<pre>
+chmod +x port_scanner.py
+</pre>
+
+<ol start="4">
+  <li>Run the script</li>
+</ol>
+
+<pre>
+python3 port_scanner.py
+</pre>
+
+<hr>
+
+<h2>📸 Screenshots</h2>
+
+<h3>Running the Port Scanner</h3>
+<img src="screenshots/run.png" alt="Running the port scanner" width="700">
+
+<h3>Entering Target and Port Range</h3>
+<img src="screenshots/input.png" alt="User entering target and ports" width="700">
+
+<h3>Scan Results</h3>
+<img src="screenshots/results.png" alt="Port scan results" width="700">
+
+<hr>
+
+<h2>📚 What I Learned</h2>
+<ul>
+  <li>How TCP port scanning works</li>
+  <li>Python socket programming</li>
+  <li>Using threads for faster scans</li>
+  <li>Linux terminal and Git workflows</li>
+  <li>Ethical considerations in cybersecurity</li>
+</ul>
+
+<hr>
+
+<h2>👤 Author</h2>
+<p>
+<strong>Katlego Motsoaledi</strong><br>
+Cybersecurity Intern<br>
+GitHub: <a href="https://github.com/Handsomebranden">Handsomebranden</a>
+</p>
